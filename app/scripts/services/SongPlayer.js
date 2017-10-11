@@ -138,5 +138,5 @@
 
     angular
         .module('blocJams')
-        .factory('SongPlayer', ['Fixtures', SongPlayer);
+        .factory('SongPlayer', ['Fixtures', SongPlayer]);
 })();
