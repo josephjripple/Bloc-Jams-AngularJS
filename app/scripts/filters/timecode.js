@@ -4,7 +4,7 @@
             var seconds = Number.parseFloat(seconds);
 
             if (Number.isNan(seconds)) {
-                  return "-:--";
+                  return '-:--';
             }
 
             var wholeSeconds = Math.floor(seconds);
